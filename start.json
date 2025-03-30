@@ -1,5 +1,5 @@
 {    
-    "name": "Start StremioMSX",
+    "name": "Start MSX",
     "version": "1.0.0",
     "parameter": "content:https://necrohamcer.github.io/msx/data/content.json",
     "welcome": "none"
